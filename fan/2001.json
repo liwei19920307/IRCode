@@ -1,0 +1,20 @@
+{
+  "manufacturer": "Midea Air",
+  "supportedModels": ["SAB40BR"],
+  "supportedController": "ESPHome",
+  "commandsEncoding": "Raw",
+  "speed": ["1", "2", "3", "4", "5", "6", "7"],
+  "commands": {
+    "off": "[]",
+    "default": {
+      "1": "[]",
+      "2": "[]",
+      "3": "[]",
+      "4": "[]",
+      "5": "[]",
+      "6": "[]",
+      "7": "[]"
+    },
+    "oscillate": "[]"
+  }
+}
